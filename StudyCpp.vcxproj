@@ -154,7 +154,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="StudyCpp.cpp" />
+    <ClCompile Include="class01.cpp" />
+    <ClCompile Include="Main_StudyCpp.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="class01.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
